@@ -8,7 +8,7 @@ body {
 
 
 .welcome img {
-  width: 300px;
+  width: 250px;
   border-radius: 50%;
   border: 5px solid gray;
 }
@@ -88,7 +88,7 @@ li a:hover {
 }
 
   .welcome img {
-  width: 30%;
+  width: 20%;
   float: left;
   border-radius: 50%;
   border: 5px solid gray;
