@@ -102,10 +102,15 @@ li a:hover {
   font-size: 1.8em;
 }
     .pinfo {
-  margin-top: 400px;
+  margin-top: 160px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px; 
+  padding: 10px;
+  border-left: 4px solid gray;
 }
   
-.pinfo, .education, .experience, .skills {
+.education, .experience, .skills {
   margin: 20px;
   padding: 10px;
   border-left: 4px solid gray;
