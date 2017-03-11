@@ -63,6 +63,11 @@ li a:hover {
   border-radius: 50%;
   border: 5px solid gray;
   margin: 20px;
+  box-shadow: 3px 3px 2px 2px gray;
+}
+  .name h1 {
+   text-shadow: 3px 2px white,
+     4px 3px white;
 }
 
 .name {
