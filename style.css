@@ -71,7 +71,7 @@ li a {
 }
 
 li a:hover {
-    background-color: lightpink;
+    background-color: #bd5664;
     transition: background 0.5s;
 }
 
