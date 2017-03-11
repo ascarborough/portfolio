@@ -19,6 +19,25 @@ h1 {
   text-align: center;
 }
 
+.sociallinks {
+	text-align: center; 
+}
+
+.sociallinks a {
+	border-radius: 50%;
+	width: 80px; 
+	text-decoration: none; 
+	border: 0;
+}
+
+.socaillinks:hover a {
+	transform: scale(1.5);
+}
+
+.tele {
+	text-align: center; 
+}
+
 .name {
   margin-top: 10px;
   margin-left: 10px;
