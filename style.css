@@ -75,7 +75,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #bd5664;
+    background-color: rgba(189, 86, 100, 0.66);
     transition: background 0.5s;
 }
 
