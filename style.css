@@ -34,6 +34,10 @@ h1 {
 	transform: scale(1.5);
 }
 
+.indent {
+  margin-left: 50px;
+}
+
 .tele {
 	text-align: center; 
 }
