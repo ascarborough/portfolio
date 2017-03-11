@@ -111,7 +111,7 @@ li a:hover {
   border-left: 4px solid gray;
 }
 
-.pinfo:hover, .education:hover, .experience:hover, .skills:hover {
+.pinfo:hover, .education:hover, .experience:hover, .skills:hover, .sociallinks:hover {
   border-left: 5px dotted #C32933;
    background: rgba(255,255,255,0.75);
 }
