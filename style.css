@@ -75,7 +75,25 @@ li a:hover {
   margin-left: 30px;
   font-size: 1.8em;
 }
+    .pinfo {
+  margin-top: 300px;
+}
   
+.pinfo, .education, .experience, .skills {
+  margin: 20px;
+  padding: 10px;
+  border-left: 4px solid gray;
+}
+
+.pinfo:hover, .education:hover, .experience:hover, .skills:hover {
+  border-left: 5px dotted #C32933;
+}
+
+.about {
+  text-align: center;
+  margin-top: 100px;
+}
+
 }
 
 /* Tablet:  768px = 160em */
