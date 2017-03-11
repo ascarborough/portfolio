@@ -93,6 +93,7 @@ li a:hover {
 
 .pinfo:hover, .education:hover, .experience:hover, .skills:hover {
   border-left: 5px dotted #C32933;
+   background: rgba(255,255,255,0.55);
 }
 
 .about {
