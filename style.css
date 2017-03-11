@@ -1,1 +1,85 @@
+body {
+  background-image: url("floral.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  overflow-x: hidden; 
+}
 
+
+.welcome img {
+  width: 300px;
+  border-radius: 50%;
+  border: 5px solid gray;
+}
+
+.name {
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 1.8em;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    justify-content: right;
+}
+
+li {
+    float: left;
+    display: flex; 
+    font-size: 1.2em;
+   margin-top: 20px;
+   font-weight: bold;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: lightpink;
+    transition: background 0.5s;
+}
+
+/* Mobile: 320px = 20em */
+@media screen and (min-width: 35em) { 
+  
+  .here {
+  margin-left: 350px;
+    margin-top: 150px;
+}
+
+  .welcome img {
+  width: 40%;
+  float: left;
+  border-radius: 50%;
+  border: 5px solid gray;
+  margin: 20px;
+}
+
+.name {
+  margin-top: 50px;
+  margin-left: 30px;
+  font-size: 1.8em;
+}
+  
+}
+
+/* Tablet:  768px = 160em */
+@media screen and (min-width: 48em)  {
+
+
+}
+
+/* Desktop: 1280px = 80em */
+@media screen and (min-width: 80em) { 
+
+}
