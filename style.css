@@ -116,8 +116,9 @@ li a:hover {
    background: rgba(255,255,255,0.75);
 }
 	
-.sociallinks:hover, .tele:hover {
+.sociallinks:hover, .tele:hover, .here:hover {
 	   background: rgba(255,255,255,0.75);
+	   border-radius: 25px;
 	}
 
 .about {
